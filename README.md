@@ -53,7 +53,7 @@ In **arrays.js**, complete each drill by writing the JavaScript code for the fol
 
 ---
 
-## Array Methods Practice (Bonus)
+## Array Methods Practice (Bonus: AI to help you learn and tackle these)
 
 1. **Use the `push()` method to add a new color to the `colors` array.**
 
@@ -73,7 +73,7 @@ In **arrays.js**, complete each drill by writing the JavaScript code for the fol
 
 ---
 
-## Super Bonus: Higher Order Methods on Arrays
+## Super Bonus: Array Higher Order Methods (Use AI to help you learn and tackle these)
 
 9. **Use the `sort()` method to alphabetically sort the `colors` array.**
 
